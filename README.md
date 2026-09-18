@@ -95,7 +95,7 @@ Introduction to the Burp Suite interface, proxy configuration, Burp Browser, tar
 
 Hands-on practice intercepting HTTP requests and responses and understanding how Burp Proxy operates between the browser and web application.
 
-➡️ [View Lab](./02-Proxy/)
+➡️ [View Lab](./02-Burp-Proxy/)
 
 ---
 
@@ -103,7 +103,7 @@ Hands-on practice intercepting HTTP requests and responses and understanding how
 
 Practice manually modifying and resending HTTP requests to investigate application behaviour.
 
-➡️ [View Lab](./03-Repeater/)
+➡️ [View Lab](./03-Burp-Repeater/)
 
 ---
 
@@ -111,7 +111,7 @@ Practice manually modifying and resending HTTP requests to investigate applicati
 
 Planned practical work involving payload positions, payload configuration and automated request testing.
 
-➡️ [View Lab](./04-Intruder/)
+➡️ [View Lab](./04-Burp-Intruder/)
 
 ---
 
