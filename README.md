@@ -41,9 +41,9 @@ The purpose of this repository is to demonstrate my understanding of HTTP traffi
 
 | # | Topic | Status |
 |---|---|---|
-| 01 | Burp Suite Fundamentals | 🔄 In Progress |
-| 02 | Proxy | 🔄 In Progress |
-| 03 | Repeater | ⬜ Planned |
+| 01 | Burp Suite Fundamentals | ✅ Completed |
+| 02 | Proxy | ✅ Completed|
+| 03 | Repeater | ✅ Completed |
 | 04 | Intruder | ⬜ Planned |
 | 05 | HTTP Request Analysis | ⬜ Planned |
 | 06 | Cross-Site Scripting (XSS) | ⬜ Planned |
