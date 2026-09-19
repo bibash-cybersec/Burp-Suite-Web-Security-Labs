@@ -397,13 +397,11 @@ screenshots/
 Recommended evidence:
 
 ```text
-01-intruder-positions.png
-02-intruder-payloads.png
-03-username-results.png
-04-admin-response.png
-05-test-response.png
-06-password-results.png
-07-successful-password-response.png
+01-intruder-positions-and-payloads.png
+02-username-results.png
+03-admin-response.png
+04-test-response.png
+05-password-results.png
 ```
 
 Sensitive information such as:
